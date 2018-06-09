@@ -1,0 +1,8 @@
+.backimg{
+    background: url(../asset/robot.jpg);
+    background-size: cover;
+}
+.backimg1{
+    background: url(../asset/robot2.jpg) repeat;
+    background-size: contain;
+}
